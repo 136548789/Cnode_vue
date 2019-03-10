@@ -1,29 +1,11 @@
-# cnode
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+感谢Cnode开源的api 让我有了做个论坛的机会
+这个项目算是对这段时间vue学习的一个总结
+由于时间问题，只完成了部分api的内容
+API清单 x 15
+[√] 主题首页
+[√] 主题详情
+[√] 新建主题
+[√] 编辑主题
+[√] 新建评论
+[√] 用户详情/个人主页
+[√] 登录
