@@ -9,3 +9,11 @@ API清单 x 7
 [√] 新建评论  
 [√] 用户详情/个人主页  
 [√] 登录  
+技术栈
+vue  
+vuex  
+vue-router  
+axios  
+bootstrap  
+mavon-editor  
+es6  
